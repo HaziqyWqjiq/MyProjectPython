@@ -1,0 +1,15 @@
+How To Install Pip/Update Pip
+________________________________________________________________________.
+
+1.open CMD:
+    press Windows + R
+    Type cmd
+_____________________________________________________________________
+2.cd AppData\Roaming\Python\Python39
+
+      You can use this for downlad The Site Package:
+          
+           (Open File Name : HowToInstallStPck)
+_________________________________________________________________________
+3.python -m pip install --upgrade pip
+_______________________________________________________________________

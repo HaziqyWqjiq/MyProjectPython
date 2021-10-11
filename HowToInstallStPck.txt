@@ -1,0 +1,52 @@
+Site Package - Installer
+___________________________________________________________________
+
+Open CV - pip install opencv-python
+
+phonenumbers - pip install phonenumbers
+
+instaloader - pip3 install instaloader
+
+pytube - pip install pytube
+
+ursina - pip install ursina
+
+pyautogui - pip install pyautogui
+
+pygame - pip install pygame
+
+gtts - pip install gtts
+
+playsound - pip install playsound
+
+freegames - pip install freegames
+
+fpdf - pip install fpdf / sudo pip3 install fpdf
+
+docx2pdf - pip install docx2pdf / sudo pip3 install docx2pdf
+
+flask - pip install flask
+
+pyngrok - pip install pyngrok
+
+pillow - pip install pillow
+
+pdf2image - pip install pdf2image
+
+datetime - pip install datetime
+
+numpy - pip install numpy
+
+pyscreenshot - pip install pyscreenshot
+
+wikipedia - pip install wikipedia
+
+beautifulsoup - pip install beautifulsoup
+
+pywhatkit - pip install pywhatkit
+
+Flask-SQLAlchemy - pip install flask_sqlalchemy
+
+flask-login - pip install flask_login
+
+PyQt5 - pip install PyQt5
